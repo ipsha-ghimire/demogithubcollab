@@ -10,3 +10,10 @@ let division=(a,b)=>{
     console.log(a/b);
 }
 division(...marks);
+
+//multiplication
+let multiplication=(a,b)=>{
+    console.log(a*b);
+
+}
+multiplication(...marks);
