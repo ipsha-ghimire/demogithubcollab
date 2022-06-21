@@ -3,3 +3,10 @@ const addition=(a,b,c)=>{
     console.log(a+b+c);
 }
 addition(...marks);
+
+//division 
+
+let division=(a,b)=>{
+    console.log(a/b);
+}
+division(...marks);
